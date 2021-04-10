@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="title">Confirm</string>
+    <string name="message">Do you want to delete this module?</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
